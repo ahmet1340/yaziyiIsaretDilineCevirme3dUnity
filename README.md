@@ -16,7 +16,7 @@ Proje hakkında daha fazla bilgi almak ve tam sürümüne erişmek için lütfen
 
 ## YouTube Tanıtımı
 
-[![Yazıyı İşaret Diline Çevirme (3D Unity)](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Yazıyı İşaret Diline Çevirme (3D Unity)](https://img.youtube.com/vi/3yTuLN6NxZY/0.jpg)](https://www.youtube.com/watch?v=3yTuLN6NxZY)
 
-Yukarıdaki bağlantıya tıklayarak projenin YouTube üzerindeki tanıtım videosunu izleyebilirsiniz. (VIDEO_ID kısmını projenin YouTube videosunun ID'si ile değiştirin.)
+Yukarıdaki bağlantıya tıklayarak projenin YouTube üzerindeki tanıtım videosunu izleyebilirsiniz. 
 
